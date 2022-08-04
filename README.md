@@ -65,8 +65,9 @@ Vanilla JS 를 좋아하며 급변하는 시대에 따라 시시각각 변화하
 - 설명 : iNavi Maps API 이용 안내 서비스
 - 사용 기술 : Vanilla JS, HTML, IIS
 
-<img src="images/iNavi_Maps_API_Guide_Main.png"></img>
-<img src="images/iNavi_Maps_API_Guide_Request.png"></img>
+![가이드 메인 페이지](./images/iNavi_Maps_API_Guide_Main.PNG)
+![가이드 직접 해보기](./images/iNavi_Maps_API_Guide_Request.PNG)
+
 
 <br>
 
