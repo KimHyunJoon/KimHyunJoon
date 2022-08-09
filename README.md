@@ -63,10 +63,46 @@ Vanilla JS 를 좋아하며 급변하는 시대에 따라 시시각각 변화하
 - 사이트 : [iNavi Maps API 가이드](http://imapsapi.inavi.com/guide.html)
 - 기간 : 2019.11 ~ 2020.03
 - 설명 : iNavi Maps API 이용 안내 서비스
+- 역할 : 지도 API 직접 해보기 기능 구현
 - 사용 기술 : Vanilla JS, HTML, IIS
 
 ![가이드 메인 페이지](./images/iNavi_Maps_API_Guide_Main.PNG)
 ![가이드 직접 해보기](./images/iNavi_Maps_API_Guide_Request.PNG)
+
+<br>
+
+> ## iNavi Maps API
+
+- 참고 사이트 : [Mapbox](https://www.mapbox.com/)
+- 기간 : 2020.03 ~ 2020.06
+- 설명 : iNavi Maps API 서비스
+- 역할 : 지도 API 개선
+- 사용 기술 : Vanilla JS, Node JS
+
+![지도 API Feature](./images/iNavi_Maps_API_Feature.PNG)
+
+<br>
+
+> ## iNavi Connected Admin
+
+- 기간 : 2020.06 ~ 2020.09
+- 설명 : 블랙박스 단말 관리를 위한 관리자용 Admin 백오피스
+- 역할 : 신규 메뉴 개발, 프로젝트 유지 보수
+- 사용 기술 : JQuery, Vanilla JS, Java, AWS
+
+<br>
+
+> ## FMS 관제 서비스
+
+- 사이트 : [국내 FMS 관제 서비스](http://fms.inavisys.com/) / [해외 (싱가포르) FMS 관제 서비스](https://www.thinkwareconnected.com/)
+- 기간 : 2020.10 ~ 2022.06
+- 설명 : [국내/해외] 블랙박스 단말 기반 실시간 차량 위치 제공 서비스
+- 역할 : 프로젝트 설계, 개발, 배포, 운영
+- 사용 기술 : Vanilla JS, Java, AWS, Google Analytics
+
+![FMS 관제 서비스 로그인 페이지](./images/FMS_Login.PNG)
+![FMS 관제 서비스 메인 페이지](./images/FMS_Main.PNG)
+![FMS 관제 서비스 관제 페이지](./images/FMS_Location.PNG)
 
 
 <br>
