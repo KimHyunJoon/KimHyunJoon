@@ -139,9 +139,9 @@ JavaScript 를 좋아하며 급변하는 시대에 따라 빠르게 변화하는
 - 역할 : 프로젝트 리뉴얼
 - 사용 기술 : Vue.js, Nuxt.js
 
-![Kakao i LaaS Matching 메인 페이지](./images/KAKAO_i_LaaS_Matching_Main.png)
-![Kakao i LaaS Matching 창고 상세 화면 페이지](./images/KAKAO_i_LaaS_Matching_Detail.png)
-![Kakao i LaaS Matching AI 창고 탐색 페이지](./images/KAKAO_i_LaaS_Matching_AI.png)
+![Kakao i LaaS Matching 메인 페이지](./images/KAKAO_i_LaaS_Matching_Main.PNG)
+![Kakao i LaaS Matching 창고 상세 화면 페이지](./images/KAKAO_i_LaaS_Matching_Detail.PNG)
+![Kakao i LaaS Matching AI 창고 탐색 페이지](./images/KAKAO_i_LaaS_Matching_AI.PNG)
 
 <br>
 
