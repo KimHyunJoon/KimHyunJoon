@@ -35,7 +35,7 @@
 
 안녕하세요. 정리하는 것을 좋아하는 웹 개발자 김현준입니다. 
 <br><br>
-Inavi Systems 에서 Spring 기반 Java 와 Vanilla JS 로 FMS (Fleet Management System) 서비스의 클라이언트 개발 부분을 담당하였습니다.
+iNavi Systems 에서 Spring 기반 Java 와 Vanilla JS 로 FMS (Fleet Management System) 서비스의 클라이언트 개발 부분을 담당하였습니다.
 <br>
 지도가 메인 도메인인 회사여서 GPS 기반의 다양한 웹 서비스 및 API 를 경험해 볼 수 있었고 현재 개발하는데 있어서 좋은 시작점이 되었습니다.
 <br><br>
