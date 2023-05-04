@@ -108,7 +108,7 @@ DK Techin 에서 Vue, Nuxt 로 Kakao i LaaS 창고 매칭 서비스 리뉴얼, �
 - 기간 : 2020.03 ~ 2020.06
 - 설명 : iNavi Maps API 서비스
 - 역할 : 지도 API 개선
-- 사용 기술 : Vanilla JS, Node JS
+- 사용 기술 : Vanilla JS, Node
 
 ![지도 API Feature](./images/iNavi_Maps_API_Feature.PNG)
 
@@ -156,7 +156,7 @@ DK Techin 에서 Vue, Nuxt 로 Kakao i LaaS 창고 매칭 서비스 리뉴얼, �
 - 기간 : 2023.01 ~ 진행중
 - 설명 : 지도를 구성하는 배경, 주기와 같은 것들을 생성하고 배포하기 위한 지도 생성 Admin 백오피스
 - 역할 : 지도 config 관리 및 지도 서비스 배포, 프로젝트 개선
-- 사용 기술 : Angular, Kotlin, AWS, IDC
+- 사용 기술 : Spring Boot, Angular, Kotlin, AWS, IDC
 
 <br>
 
