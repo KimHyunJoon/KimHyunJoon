@@ -33,19 +33,25 @@
 
 # **소개**
 
-안녕하세요. 4년차 웹 개발자 김현준입니다. 
+안녕하세요. 정리하는 것을 좋아하는 웹 개발자 김현준입니다. 
+<br><br>
+Inavi Systems 에서 Spring 기반 Java 와 Vanilla JS 로 FMS (Fleet Management System) 서비스의 클라이언트 개발 부분을 담당하였습니다.
 <br>
-아이나비 시스템즈에서 Vanilla JS, Java, AWS 로 FMS (차량 관제 서비스) 프로젝트의 설계부터 서비스 배포까지 담당하였습니다.
+지도가 메인 도메인인 회사여서 GPS 기반의 다양한 웹 서비스 및 API 를 경험해 볼 수 있었고 현재 개발하는데 있어서 좋은 시작점이 되었습니다.
+<br><br>
+DK Techin 에서 Vue, Nuxt 로 Kakao i LaaS 창고 매칭 서비스 리뉴얼, 운영을 담당하였습니다.
 <br>
-DK Techin 에서 Vue.js, Nuxt.js 로 Kakao i LaaS 창고 매칭 서비스 리뉴얼, 운영을 담당하였습니다.
+비록 짧은 시간이었지만 카카오에서 사용하는 여러 플랫폼과 클라우드를 경험해볼 수 있었고, SPA 도 처음 현업에 적용해보면서 프론트엔드 개발에 더 방향성을 잡게 된 계기가 된 것 같습니다.
+<br><br>
+현재는 TMAP Mobility 에서 지도 인프라 관련 정기 지도 서비스 배포 및 지도를 구성하고 있는 배경, 주기 생성을 위한 지도 관리자 웹 서비스의 개발을 담당하고 있습니다.
 <br>
-풀스택을 경험하며 개발 방향성을 잡기 이전의 기본기를 탄탄히 하고자 노력하였고, 프론트엔드로 방향성을 잡고 성장하기 위해 TypeScript 와 SPA 인 React.js, Vue.js 로 개발하고 있습니다.
-<br>
-JavaScript 를 좋아하며 급변하는 시대에 따라 빠르게 변화하는 프론트엔드 생태계에 발맞춰 성장하고 싶은 꿈 많은 개발자입니다. 
-<br>
-사용자들에게 일상의 즐거움, 삶의 변화를 줄 수 있는 서비스를 만드는 웹 개발자가 되고 싶습니다.
-<br>
-감사합니다. 
+네비게이션 업계 1등이라는 타이틀에 걸맞는 지도 서비스를 제공하고자 노력하고 있습니다.
+<br><br>
+첫 회사에서 풀스택을 경험하며 개발 방향성을 잡기 이전의 기본기를 탄탄히 하고자 노력하였고, 이후 프론트엔드로 방향성을 잡고 성장하기 위해 TypeScript 와 React, Vue 를 이용한 사이드 프로젝트 및 개인 공부를 병행하였습니다.
+<br><br>
+빠르게 변화하는 프론트엔드 생태계에 발맞춰 성장하고 싶으며 사용자들에게 일상의 즐거움, 삶의 변화를 줄 수 있는 서비스를 만드는 개발자가 되고 싶습니다.
+<br><br>
+감사합니다.
 <br><br>
 
 ***
@@ -72,7 +78,7 @@ JavaScript 를 좋아하며 급변하는 시대에 따라 빠르게 변화하는
 - TMAP Mobility
   + 2023.01 ~ 재직중
   + 소속 : 맵플랫폼 맵인프라팀
-  + 담당 : VSM 서버 운영 및 지도 정기 업데이트 | 프론트엔드 개발
+  + 담당 : 지도 서비스 배포 서버 운영 및 지도 정기 업데이트 | 프론트엔드 개발
 
 <br>
 
@@ -123,7 +129,7 @@ JavaScript 를 좋아하며 급변하는 시대에 따라 빠르게 변화하는
 - 기간 : 2020.10 ~ 2022.06
 - 설명 : [국내/해외] 블랙박스 단말 기반 실시간 차량 위치 제공 서비스
 - 역할 : 프로젝트 설계, 개발, 배포, 운영
-- 사용 기술 : Vanilla JS, Java, AWS, Google Analytics
+- 사용 기술 : Spring Boot, Java, Vanilla JS, AWS, IDC, Google Analytics
 
 ![FMS 관제 서비스 로그인 페이지](./images/FMS_Login.PNG)
 ![FMS 관제 서비스 메인 페이지](./images/FMS_Main.PNG)
@@ -137,11 +143,20 @@ JavaScript 를 좋아하며 급변하는 시대에 따라 빠르게 변화하는
 - 기간 : 2022.09 ~ 2022.12
 - 설명 : 회원사와 화주 간 물류 창고 사용을 위한 매칭 서비스
 - 역할 : 프로젝트 리뉴얼
-- 사용 기술 : Vue.js, Nuxt.js
+- 사용 기술 : Vue, Nuxt
 
 ![Kakao i LaaS Matching 메인 페이지](./images/KAKAO_i_LaaS_Matching_Main.png)
 ![Kakao i LaaS Matching 창고 상세 화면 페이지](./images/KAKAO_i_LaaS_Matching_Detail.png)
 ![Kakao i LaaS Matching AI 창고 탐색 페이지](./images/KAKAO_i_LaaS_Matching_AI.png)
+
+<br>
+
+> ## VSM Admin
+
+- 기간 : 2023.01 ~ 진행중
+- 설명 : 지도를 구성하는 배경, 주기와 같은 것들을 생성하고 배포하기 위한 지도 생성 Admin 백오피스
+- 역할 : 지도 config 관리 및 지도 서비스 배포, 프로젝트 개선
+- 사용 기술 : Angular, Kotlin, AWS, IDC
 
 <br>
 
