@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/></a>&nbsp
   <img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=Nuxt.js&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=Vuetify&logoColor=white"/></a>&nbsp
@@ -33,7 +34,7 @@
 
 # **소개**
 
-안녕하세요 정리하는 것을 좋아하는 개발자 김현준입니다. 
+기록 및 정리를 습관화하기위해 노력하는 김현준입니다.
 <br><br>
 iNavi Systems 에서 GPS 기반 다양한 지도 도메인 웹 서비스 및 API 개발을 경험하였고, FMS (Fleet Management System) 서비스의 클라이언트 개발을 주도적으로 진행하면서 본격적인 FE 개발의 시작점이 되었습니다.
 <br><br>
@@ -45,9 +46,9 @@ DK Techin 에서 Kakao i LaaS 창고 매칭 서비스 클라이언트 리뉴얼�
 <br>
 TMAP App 이 Vertical 서비스로 변모하면서 그에 맞는 지도 서비스를 제공하고자 노력하고 있습니다.
 <br><br>
-처음 Full Stack 을 경험하며 개발 방향성을 잡기 이전의 기본기를 탄탄히 다졌고, 이후 FE 개발자로의 방향성을 잡고 성장하기 위해 TypeScript, React, Vue 를 이용한 사이드 프로젝트 및 개인 공부를 병행하고 있습니다.
+개발 방향성을 잡기 이전의 기본기를 탄탄히 하고자 FE, BE, Server, Infra 등 다양한 기술 스택을 쌓았습니다.
 <br><br>
-빠르게 변화하는 FE 생태계에 발맞춰 성장하고 싶으며 사용자들이 사용하기 편한, 삶의 변화를 줄 수 있는 서비스를 만드는 개발자가 되고 싶습니다.
+다양한 기술 스택을 토대로 각 분야의 담당자들과 소통하며 업무에 임하고있으며, 지도 도메인을 중점으로 더 나은 Software Engineer 가 되기위해 노력하고 있습니다.
 <br><br>
 감사합니다.
 <br><br>
@@ -76,7 +77,7 @@ TMAP App 이 Vertical 서비스로 변모하면서 그에 맞는 지도 서비�
 - TMAP Mobility
   + 2023.01 ~ 재직중
   + 소속 : 맵플랫폼 맵인프라팀
-  + 담당 : 지도 Infra FE 개발, 지도 정기 배포
+  + 담당 : 지도기술 연구 | 지도 FE 개발
 
 <br>
 
@@ -152,9 +153,9 @@ TMAP App 이 Vertical 서비스로 변모하면서 그에 맞는 지도 서비�
 > ## VSM Admin
 
 - 기간 : 2023.01 ~ 진행중
-- 설명 : 지도 생성, 배포하기 위한 지도 관리 Admin
-- 역할 : config 관리 및 지도 서비스 배포, 개선
-- 사용 기술 : Spring Boot, Angular, Kotlin, AWS, IDC
+- 설명 : 지도 타일 (레이어) 생성, SDK config 배포하기 위한 Admin
+- 역할 : SDK config 관리/배포, 추가기능 개발
+- 사용 기술 : Spring Boot, Kotlin, Angular, Docker, AWS
 
 <br>
 
